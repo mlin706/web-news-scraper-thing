@@ -1,0 +1,39 @@
+.content {
+    float: left;
+    width: 60%
+}
+
+#navbar-container {
+    border: 1px solid #cbbce7;
+    border-radius: 5px;
+    background-color: #F8F8F8;
+
+    width: 10%;
+    float: right;
+}
+
+#navbar {
+    margin: 0px;
+    padding: 0px;
+
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+}
+
+#navbar-title {
+    margin: 10px;
+    padding: 10px;
+
+    font-size: 18px;
+}
+
+.nav-item {
+    padding: 10px;
+}
+
+.nav-item:hover {
+    background-color: #cbbce7;
+}

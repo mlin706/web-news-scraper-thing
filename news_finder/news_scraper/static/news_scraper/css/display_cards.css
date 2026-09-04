@@ -1,0 +1,20 @@
+div {
+    font-family: 'ReithSans,Helvetica,Arial,freesans,sans-serif';
+}
+
+.card {
+    background: #F8F8F8;
+    margin: 5px 10px 5px 10px;
+    border-radius: 5px;
+    border: 2px solid #B80000;
+    padding: 5px;
+    text-align: center;
+    width: 85%;
+}
+
+.article-title {
+    background: #B80000;
+    font-weight: bold;
+    color: white;
+    margin: 10px -5px 10px -5px;
+}
